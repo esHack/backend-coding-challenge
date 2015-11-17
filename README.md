@@ -5,6 +5,10 @@ Please note that I commited only frontend code here. Complete code is available 
 
 https://github.com/esHack/RestJesreyM 
 
+a snapshot of final project...
+
+<img src="http://s8.postimg.org/3vobpv7px/Alchemy.jpg" height="400" width="800">
+
 
 Goal
 ====
